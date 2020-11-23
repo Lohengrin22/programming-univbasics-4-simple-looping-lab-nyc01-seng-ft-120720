@@ -32,4 +32,3 @@ def return_string_array(array)
   end
   new_array
 end
-  filter_parameter_logging
